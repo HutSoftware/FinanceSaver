@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Alô mundo, é nóis!</string>
+	<string name="btn_notification">Clique aqui para notificar</string>
+	<string name="first_notification_ticker">Alô Android</string>
+    <string name="first_notification_title">Minha primeira notificação!</string>
+    <string name="first_notification_text">Alô mundão Android!</string>
+</resources>
